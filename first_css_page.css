@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "graffity";
+    src: url("brotherhod2.otf");
+}
+h1{
+    color: rgb(125, 60, 185);
+    font-family: "graffity", sans-serif;
+}
+h2{
+    color: rgb(25, 58, 59);
+}
+a{
+    color: rgb(104, 131, 31);
+}
+p {
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem;
+}
+body{
+    background-color: rgb(183, 168, 194);
+}
+img{
+    width:500px;
+    border: 3px solid black;
+    margin-left: 20px;
+}
+ul{
+    list-style: square;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+a:hover{
+    color: rgb(2, 2, 206);
+}
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
